@@ -1,0 +1,2 @@
+[ 2022-12-04 15:36:53,643 ] 3 root - INFO - Calling environmental variables
+[ 2022-12-04 15:36:54,039 ] 15 root - INFO - to_dict() takes 0 positional arguments but 1 was given

@@ -1,0 +1,2 @@
+[ 2022-12-04 15:38:40,564 ] 3 root - INFO - Calling environmental variables
+[ 2022-12-04 15:38:40,967 ] 13 root - INFO - {'database_name': 'aps', 'collection_name': 'sensor', 'data_ingestion_dir': '/config/workspace/artifact/12042022__153840/data_ingestion', 'feature_store_dir': '/config/workspace/artifact/12042022__153840/data_ingestion/feature_store/sensor.csv', 'train_file_path': '/config/workspace/artifact/12042022__153840/data_ingestion/dataset/train.csv', 'test_file_path': '/config/workspace/artifact/12042022__153840/data_ingestion/dataset/test.csv'}

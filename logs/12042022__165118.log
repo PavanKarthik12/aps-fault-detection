@@ -1,0 +1,5 @@
+[ 2022-12-04 16:51:18,218 ] 3 root - INFO - Calling environmental variables
+[ 2022-12-04 16:51:18,615 ] 14 root - INFO - {'database_name': 'aps', 'collection_name': 'sensor', 'data_ingestion_dir': '/config/workspace/artifact/12042022__165118/data_ingestion', 'feature_store_file_path': '/config/workspace/artifact/12042022__165118/data_ingestion/feature_store/sensor.csv', 'train_file_path': '/config/workspace/artifact/12042022__165118/data_ingestion/dataset/train.csv', 'test_file_path': '/config/workspace/artifact/12042022__165118/data_ingestion/dataset/test.csv'}
+[ 2022-12-04 16:51:18,615 ] 10 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Data Ingestion <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2022-12-04 16:51:18,615 ] 17 root - INFO - Exporting collection data as pandas dataframe
+[ 2022-12-04 16:51:18,615 ] 19 root - INFO - name 'sys' is not defined

@@ -1,0 +1,2 @@
+[ 2022-12-04 15:36:19,010 ] 3 root - INFO - Calling environmental variables
+[ 2022-12-04 15:36:19,399 ] 14 root - INFO - name 'DataIngestionConfig' is not defined
